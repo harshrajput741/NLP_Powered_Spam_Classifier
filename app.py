@@ -6,7 +6,7 @@ import pandas as pd
 vectorizer = joblib.load('vectorizer_spam.pkl')
 model = joblib.load('spam_model.pkl')
 st.set_page_config(layout = 'wide')
-st.sidebar.image('flag.jpg')
+st.sidebar.image('spam_logo.jpg')
 st.sidebar.title('About Project')
 st.sidebar.write('Objective of this project is to predict a message ')
 st.sidebar.title('Libraries')
