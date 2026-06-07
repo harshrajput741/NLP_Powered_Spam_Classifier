@@ -44,11 +44,11 @@ cd Gmail_Spam_Classifier
 pip install -r requirements.txt
 ```
 Run Apllication
-'''
+```
 streamlit run app.py
-'''
+````
 
-📸 Demo
+## 📸 Demo
 Enter a message and the model predicts whether it is:
   
 ✅ Ham (Safe Message)
