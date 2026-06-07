@@ -49,10 +49,11 @@ streamlit run app.py
 ````
 
 ## 📸 Demo
+
 Enter a message and the model predicts whether it is:
-  
-✅ Ham (Safe Message)
-🚫 Spam (Unwanted Message)
+
+- ✅ **Ham** (Safe Message)
+- ❌ **Spam** (Unwanted Message)
   
 ## 🎯 Machine Learning Workflow
 1. Data Collection
@@ -68,5 +69,5 @@ Enter a message and the model predicts whether it is:
 - Deep Learning Models
 - Email Attachment Analysis
   
-  👨‍💻 Author
-  Harsh Rajput
+## 👨‍💻 Author
+Harsh Rajput
