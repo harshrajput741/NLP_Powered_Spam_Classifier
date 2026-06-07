@@ -46,25 +46,25 @@ pip install -r requirements.txt
 Run Apllication
 streamlit run app.py
 
-📸 Demo
-Enter a message and the model predicts whether it is:
-
-✅ Ham (Safe Message)
-🚫 Spam (Unwanted Message)
-
-🎯 Machine Learning Workflow
-1.Data Collection
-2.Data Cleaning
-3.Text Preprocessing
-4.TF-IDF Vectorization
-5.Model Training
-6.Prediction
-
-📈 Future Improvements
-- Multi-language Support
-- Gmail API Integration
-- Deep Learning Models
-- Email Attachment Analysis
-
-👨‍💻 Author
-Harsh Rajput
+  📸 Demo
+  Enter a message and the model predicts whether it is:
+  
+  ✅ Ham (Safe Message)
+  🚫 Spam (Unwanted Message)
+  
+  🎯 Machine Learning Workflow
+  1.Data Collection
+  2.Data Cleaning
+  3.Text Preprocessing
+  4.TF-IDF Vectorization
+  5.Model Training
+  6.Prediction
+  
+  📈 Future Improvements
+  - Multi-language Support
+  - Gmail API Integration
+  - Deep Learning Models
+  - Email Attachment Analysis
+  
+  👨‍💻 Author
+  Harsh Rajput
