@@ -3,15 +3,15 @@
 An AI-powered Spam Detection System that classifies email or SMS messages as **Spam** or **Ham (Not Spam)** using Natural Language Processing (NLP) and Machine Learning.
 
 ## 🚀 Features
-
+```
 - Detect Spam and Ham messages
 - Real-time prediction
 - Confidence score display
 - Clean and interactive Streamlit UI
 - Fast and lightweight model
-
+```
 ## 🛠️ Technologies Used
-
+```
 - Python
 - Streamlit
 - Scikit-Learn
@@ -19,9 +19,9 @@ An AI-powered Spam Detection System that classifies email or SMS messages as **S
 - NumPy
 - Joblib
 - NLP (TF-IDF Vectorization)
-
+```
 ## 📂 Project Structure
-
+```
 Gmail_Spam_Classifier/
 │
 ├── app.py
@@ -30,19 +30,19 @@ Gmail_Spam_Classifier/
 ├── requirements.txt
 ├── spam_logo.png
 └── README.md
-
+```
 
 ## ⚙️ Installation
-
 Clone the repository:
 
 ```bash
 git clone https://github.com/yourusername/Gmail_Spam_Classifier.git
 cd Gmail_Spam_Classifier
-
-Install Dependencies
+```
+## Install Dependencies
+```
 pip install -r requirements.txt
-
+```
 Run Apllication
 streamlit run app.py
 
