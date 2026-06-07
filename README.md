@@ -21,6 +21,7 @@ An AI-powered Spam Detection System that classifies email or SMS messages as **S
 - NLP (TF-IDF Vectorization)
 
 ## 📂 Project Structure
+
 Gmail_Spam_Classifier/
 │
 ├── app.py
